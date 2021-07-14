@@ -1,4 +1,0 @@
-# dataBarang
-# dataBarang
-# dataBarang
-# Dabar
